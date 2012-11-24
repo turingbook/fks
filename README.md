@@ -18,13 +18,15 @@ Frontend Knowledge Structure
     - 编程语言
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
+        - [PHP]/[Python]/[Perl]/[Ruby]/[bash]
+        - [ActionScript]
     - 切页面
         - [HTML](http://www.w3.org/html/)
         - [CSS](http://www.w3.org/Style/CSS/)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)
     - 开发工具
         - IDE
-            - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
+            - [vim](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
         - 调试工具
@@ -69,7 +71,7 @@ Frontend Knowledge Structure
         - [闭包](http://www.jibbering.com/faq/notes/closures/)
         - 函数式编程
         - 设计模式
-        - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
+        - [JavaScript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - 部署流程
         - 压缩合并
             - [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
