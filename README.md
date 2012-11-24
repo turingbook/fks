@@ -18,7 +18,7 @@ Frontend Knowledge Structure
     - 编程语言
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
-        - [PHP]/[Python]/[Perl]/[Ruby]/[bash]
+        - [PHP](http://www.php.net/manual/zh/index.php)/Python [1](http://lpthw-cn.ducktypist.com/en/latest/),[2](http://linux.chinaitlab.com/manual/python_chinese/)/[Perl]/[Ruby]/[bash]
         - [ActionScript]
     - 切页面
         - [HTML](http://www.w3.org/html/)
