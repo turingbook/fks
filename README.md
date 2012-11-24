@@ -19,7 +19,7 @@ Frontend Knowledge Structure
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
         - [PHP](http://www.php.net/manual/zh/index.php)
-        - Python [1](http://lpthw-cn.ducktypist.com/en/latest/),[2](http://linux.chinaitlab.com/manual/python_chinese/)
+        - Python [1](http://lpthw-cn.ducktypist.com/en/latest/)，[2](http://linux.chinaitlab.com/manual/python_chinese/)
         - [Perl](http://www.cbi.pku.edu.cn/chinese/documents/perl/index.htm)
         - [Ruby](http://www.ruby-lang.org/zh_cn/documentation/)
         - [bash](http://www.ibm.com/developerworks/cn/linux/shell/bash/bash-1/)
